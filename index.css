@@ -1,0 +1,18 @@
+#header-flower {
+    float: left;
+    width: 8vw;
+    height: auto;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+#header-text {
+    font-size: 7vw;
+    color: #858585;
+}
+
+#by-maggie {
+    font-size: 2vw;
+    color: #bd9797;
+    padding-top: -10px;
+}
